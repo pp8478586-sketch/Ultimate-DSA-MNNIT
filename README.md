@@ -45,3 +45,15 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 - *Upcoming:* Participate in first LeetCode Weekly Contest.
 
 *"Consistency is the only superpower."*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
