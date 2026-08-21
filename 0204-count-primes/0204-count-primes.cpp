@@ -3,23 +3,24 @@ public:
     int countPrimes(int n) {
         if (n < 3) return 0;
         
-        int count = 1; // account for the prime 2
-        int m = n / 2; // index i represents odd number (2*i + 1), for i = 0..m-1
-        vector<char> isComposite(m, 0);
+        vector<char> arr(n, 1);
+        arr[0] = arr[1] = 0;
         
-        for (int i = 1; (long long)(2 * i + 1) * (2 * i + 1) < n; i++) {
-            if (isComposite[i] == 0) {
-                long long p = 2 * i + 1;
-                for (long long j = (p * p - 1) / 2; j < m; j += p) {
-                    isComposite[j] = 1;
+        for (int i = 4; i < n; i += 2) {
+            arr[i] = 0;
+        }
+        
+        for (int i = 3; (long long)i * i < n; i += 2) {
+            if (arr[i]) {
+                for (long long j = (long long)i * i; j < n; j += 2 * i) {
+                    arr[j] = 0;
                 }
             }
         }
         
-        for (int i = 1; i < m; i++) { // start at 1: index 0 represents "1", not prime
-            if (isComposite[i] == 0) {
-                count++;
-            }
+        int count = 1;
+        for (int i = 3; i < n; i += 2) {
+            if (arr[i]) count++;
         }
         
         return count;
