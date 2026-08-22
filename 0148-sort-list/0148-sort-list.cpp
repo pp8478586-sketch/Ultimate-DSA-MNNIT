@@ -34,7 +34,9 @@ class Solution {
         if(temp2){
             tail->next=temp2;
         }
-        return newHead->next;
+        ListNode*temp=newHead->next;
+        delete newHead;
+        return temp;
     }
 public:
     ListNode* sortList(ListNode* head) {
