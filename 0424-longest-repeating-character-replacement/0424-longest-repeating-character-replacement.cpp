@@ -4,9 +4,12 @@ public:
         vector<int>freq(26,0);
         int maxLength=0;
         int begin=0;
+        int maxFreq=0;
         for(int i=0;i<s.size();i++){
             freq[s[i]-'A']++;
-            while(i-begin+1-*max_element(freq.begin(),freq.end())>k){
+            
+            maxFreq=max(maxFreq,freq[s[i]-'A']);
+            while(i-begin+1-maxFreq>k){
                 freq[s[begin]-'A']--;
                 begin++;
             }
