@@ -55,6 +55,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
@@ -69,6 +70,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -213,6 +215,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
