@@ -58,6 +58,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -75,6 +76,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0007-reverse-integer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
@@ -230,6 +234,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
