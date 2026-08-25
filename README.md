@@ -68,6 +68,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -224,6 +225,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -243,6 +245,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
