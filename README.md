@@ -57,6 +57,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -76,6 +77,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
@@ -225,6 +227,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -246,4 +249,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
