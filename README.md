@@ -56,6 +56,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
+| [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -263,6 +264,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
