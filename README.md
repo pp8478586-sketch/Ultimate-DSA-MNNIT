@@ -54,6 +54,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0001-two-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
+| [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -99,6 +100,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Depth-First Search
@@ -189,6 +191,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
+| [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +259,12 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
