@@ -1,48 +1,35 @@
 class Solution {
-    bool check(unordered_map<int,int>&mp1,unordered_map<int,int>&mp2){
-        bool isValid=true;
-        for(auto it:mp2){
-            if(mp1[it.first]<it.second){
-                // this is valid window 
-                isValid=false;
-            }    
-        }
-        return isValid;
-    }
+   
 public:
     string minWindow(string s, string t) {
-        int n=t.size();
-        int m=s.size();
-        string a="";
-        if(n>m)return a;
-        int begin=0;
-        unordered_map<int,int>mp1;
-        unordered_map<int,int>mp2;
-        for(int i=0;i<n;i++){
-            mp2[t[i]]++;
+        unordered_map<char,int>need;
+        unordered_map<char,int>window;
+        for(auto it:t){
+            need[it]++;
         }
-        int minStart=0;
-        int minEnd=0;
         int minLength=INT_MAX;
-        for(int i=0;i<m;i++){
-            mp1[s[i]]++;
-            if(check(mp1,mp2)){
-                while(check(mp1,mp2)){
-                    mp1[s[begin]]--;
-                    begin++;
-                }
-                if(i-begin+1+1<minLength){
-                    minStart=begin-1;
-                    minEnd=i;
-                    minLength=minEnd-minStart+1;
-                }
+        int begin=0;
+        int count=0;
+        int minStart=0;
+        for(int i=0;i<s.size();i++){
+            window[s[i]]++;
+            if(need.count(s[i])&&need[s[i]]==window[s[i]]){
+                count++;
             }
+            while(count==need.size()){
+                if(minLength>i-begin+1){
+                    minLength=i-begin+1;
+                    minStart=begin;
+                }
+                if(need.count(s[begin])&&window[s[begin]]==need[s[begin]]){
+                    count--;
+                }
+                window[s[begin]]--;
+                begin++;
+            }
+            
         }
-        if(minLength==INT_MAX)return a;
-        for(int i=minStart;i<=minEnd;i++){
-            a.push_back(s[i]);
-        }
-        return a;
-          
+        if(minLength==INT_MAX)return "";
+        return s.substr(minStart,minLength);
     }
 };
