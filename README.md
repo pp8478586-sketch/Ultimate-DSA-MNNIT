@@ -55,6 +55,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
