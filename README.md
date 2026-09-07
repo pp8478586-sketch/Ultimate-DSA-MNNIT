@@ -92,6 +92,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
