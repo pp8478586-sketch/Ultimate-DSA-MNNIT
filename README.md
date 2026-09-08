@@ -57,6 +57,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
+| [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
@@ -95,6 +96,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0007-reverse-integer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -109,6 +111,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0876-middle-of-the-linked-list/) | Easy |
