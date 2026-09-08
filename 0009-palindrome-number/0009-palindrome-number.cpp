@@ -1,16 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-       int reverseNumber=0;
-       int k=x;
-       if(x<0)return false;
-       while(k!=0){
-            int temp=k%10;
-            k=k/10;
-            if(reverseNumber>INT_MAX/10||reverseNumber<INT_MIN/10)return 0;
-            reverseNumber=reverseNumber*10+temp;
-       } 
-       if(reverseNumber==x)return true;
-       return false;
+        if(x<0)return false;
+        if(x==0)return true;
+       int digits=log10(x)+1;
+       int num=x;
+
+       while(x!=0){
+        int k=pow(10,digits-1);
+        int firstDigit=x/k;
+        int lastDigit=x%10;
+        if(firstDigit!=lastDigit)return false;
+        x=x-firstDigit*k;
+        x=x/10;
+        digits=digits-2;
+       }
+       return true;
     }
 };
