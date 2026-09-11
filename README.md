@@ -53,6 +53,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
@@ -110,6 +111,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0141-linked-list-cycle/) | Easy |
@@ -175,6 +177,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -313,6 +316,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
@@ -336,6 +340,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
