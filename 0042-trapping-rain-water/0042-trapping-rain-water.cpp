@@ -6,16 +6,6 @@ public:
         vector<int>suffixMax(n,-1);
         int leftMax=0;
          int rightMax=n-1;
-        for(int i=0;i<n;i++){
-            
-            if(height[i]>height[leftMax]){
-                prefixMax[i]=i;
-                leftMax=i;
-            }
-            else{
-                prefixMax[i]=leftMax;
-            }
-        }
         for(int i=n-1;i>=0;i--){
            
             if(height[i]>height[rightMax]){
@@ -28,6 +18,13 @@ public:
         }
         int water=0;
         for(int i=0;i<n;i++){
+            if(height[i]>height[leftMax]){
+                prefixMax[i]=i;
+                leftMax=i;
+            }
+            else{
+                prefixMax[i]=leftMax;
+            }
             if(height[prefixMax[i]]>height[i]&&height[suffixMax[i]]>height[i]){
                  water+=(min(height[prefixMax[i]],height[suffixMax[i]])-height[i]);
             }
