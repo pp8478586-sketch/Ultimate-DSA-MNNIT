@@ -78,6 +78,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,4 +351,5 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
