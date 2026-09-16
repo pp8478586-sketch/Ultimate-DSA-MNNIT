@@ -195,6 +195,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0155-min-stack](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -304,6 +305,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
+| [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -322,6 +324,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -364,6 +367,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
