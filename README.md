@@ -60,6 +60,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
@@ -153,6 +154,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -336,6 +339,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -359,6 +363,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
