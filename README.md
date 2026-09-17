@@ -67,6 +67,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
@@ -229,6 +230,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +289,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -364,6 +367,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,4 +401,9 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
