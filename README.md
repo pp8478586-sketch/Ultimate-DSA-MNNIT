@@ -88,6 +88,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +391,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
