@@ -5,24 +5,13 @@ public:
         
     }
     int next(int price) {
-        if(st.empty()){
-            st.push({price,1});
+        int span=1;
+        while(!st.empty()&&st.top().first<=price){
+            span+=st.top().second;
+            st.pop();
         }
-        else{
-            if(st.top().first<=price){
-                int count=1;
-                while(!st.empty()&&st.top().first<=price){
-                    count+=st.top().second;
-                    st.pop();
-                }
-                st.push({price,count});
-            }
-            else{
-                st.push({price,1});
-            }
-        }
-        return st.top().second;
-        
+        st.push({price,span});
+        return span;
     }
 };
 
