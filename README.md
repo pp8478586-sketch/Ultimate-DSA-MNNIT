@@ -59,6 +59,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -167,6 +168,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
@@ -402,6 +404,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
