@@ -57,6 +57,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0031-next-permutation](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
@@ -117,6 +118,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
@@ -164,6 +166,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
