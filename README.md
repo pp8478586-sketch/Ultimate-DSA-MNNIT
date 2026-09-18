@@ -78,6 +78,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0485-max-consecutive-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
@@ -107,6 +108,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -318,6 +320,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
