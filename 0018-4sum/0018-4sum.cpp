@@ -9,8 +9,8 @@ public:
                 i++;
             }
             for(int j=i+1;j<n;j++){
-                while(j<n&&j>i+1&&nums[j]==nums[j-1]){
-                    j++;
+                if(j>i+1&&nums[j]==nums[j-1]){
+                   continue;
                 }
                 int begin=j+1;
                 int end=n-1;
