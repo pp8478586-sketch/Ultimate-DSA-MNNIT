@@ -3,26 +3,18 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         sort(nums.begin(),nums.end());
         vector<int>ans;
-        int count=1;
         int n=nums.size();
-        int el=nums[0];
-        if(n==1)return nums;
-        for(int i=1;i<n;i++){
-            while(i<n&&nums[i]==el){
+        int i=0;
+        while(i<n){
+            int current=nums[i];
+            int count=0;
+            while(i<n&&current==nums[i]){
                 count++;
                 i++;
             }
             if(count>n/3){
-                ans.push_back(el);
+                ans.push_back(current);
             }
-            if(i<n){
-                el=nums[i];
-                count=1;
-                if(count>n/3){
-                    ans.push_back(el);
-                }
-            }            
-            
         }
         return ans;
     }
