@@ -72,6 +72,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
+| [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -106,6 +107,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0141-linked-list-cycle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
@@ -262,6 +264,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
+| [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -346,6 +349,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -429,4 +433,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
