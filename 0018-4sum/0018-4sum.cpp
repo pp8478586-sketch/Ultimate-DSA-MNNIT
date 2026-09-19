@@ -5,8 +5,8 @@ public:
         int n=nums.size();
         vector<vector<int>>ans;
         for(int i=0;i<n;i++){
-            while(i<n &&i>0&&nums[i]==nums[i-1]){
-                i++;
+            if(i>0&&nums[i]==nums[i-1]){
+                continue;
             }
             for(int j=i+1;j<n;j++){
                 if(j>i+1&&nums[j]==nums[j-1]){
