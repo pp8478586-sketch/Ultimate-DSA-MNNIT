@@ -10,9 +10,7 @@ public:
             vector<int>temp;
             temp.push_back(1);
             vector<int>prev;
-            if(i>1){
                 prev=ans[i-1];
-            }
             for(int j=0;j<prev.size()-1;j++){
                 temp.push_back(prev[j]+prev[j+1]);
             }
