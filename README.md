@@ -63,6 +63,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
@@ -268,6 +269,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0015-3sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
@@ -372,6 +374,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
