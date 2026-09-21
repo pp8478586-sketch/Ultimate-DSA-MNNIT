@@ -1,5 +1,19 @@
 class Solution {
-    void merge(vector<int>&nums,int low,int mid,int high){
+    
+    int  merge(vector<int>&nums,int low,int high){
+        if(low>=high)return 0;
+        int mid=low+(high-low)/2;
+        long long count=0;
+        count+=merge(nums,low,mid);
+        count+=merge(nums,mid+1,high);
+        // count all the pairs between the two sorted halves
+        int pointer=mid+1;
+        for(int i=low;i<=mid;i++){
+            while(pointer<=high&&2LL*nums[pointer]<nums[i]){
+                pointer++;
+            }
+            count+=pointer-(mid+1);
+        }
         int first=low;
         int second=mid+1;
         vector<int>temp;
@@ -24,28 +38,11 @@ class Solution {
         for(int i=low;i<=high;i++){
             nums[i]=temp[i-low];
         }
+        return count;
     }
-    void helper(vector<int>&nums,int &pairs,int low,int high){
-        if(low>=high)return;
-        int mid=low+(high-low)/2;
-        helper(nums,pairs,low,mid);
-        helper(nums,pairs,mid+1,high);
-        int second=low;
-        for(int i=mid+1;i<=high;i++){
-            while(second<=mid&&nums[second]<=2LL*nums[i]){
-                second++;
-            }
-            pairs+=mid-second+1;
-        }
-        merge(nums,low,mid,high);
-    }
-
 public:
     int reversePairs(vector<int>& nums) {
-        int pairs=0;
-        int n=nums.size();
-        if(n<=1)return 0;
-        helper(nums,pairs,0,n-1);
-        return pairs;
+        return merge(nums,0,nums.size()-1);
+        
     }
 };
