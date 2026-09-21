@@ -27,7 +27,7 @@ class Solution {
     }
     void helper(vector<int>&nums,int &pairs,int low,int high){
         if(low>=high)return;
-        int mid=(low+high)/2;
+        int mid=low+(high-low)/2;
         helper(nums,pairs,low,mid);
         helper(nums,pairs,mid+1,high);
         int second=low;
