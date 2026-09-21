@@ -57,6 +57,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
@@ -360,6 +361,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0035-search-insert-position/) | Easy |
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
