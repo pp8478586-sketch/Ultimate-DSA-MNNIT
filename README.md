@@ -145,6 +145,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0009-palindrome-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
@@ -416,6 +417,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0118-pascals-triangle/) | Easy |
@@ -496,4 +498,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
