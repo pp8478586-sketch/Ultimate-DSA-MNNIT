@@ -105,6 +105,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -379,6 +380,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0540-single-element-in-a-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
