@@ -87,6 +87,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -356,6 +357,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -381,6 +383,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0035-search-insert-position](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
@@ -403,6 +406,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -428,6 +432,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
