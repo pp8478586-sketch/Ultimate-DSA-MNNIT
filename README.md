@@ -111,6 +111,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -388,6 +389,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
