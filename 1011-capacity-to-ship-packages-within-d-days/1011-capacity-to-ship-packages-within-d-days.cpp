@@ -11,14 +11,13 @@ public:
             int noOfDays=1;
             int sum=0;
             int i=0;
-                while(i<weights.size()){
-                    sum+=weights[i];
-                    if(sum>mid){
-                        sum=weights[i];
-                        noOfDays++;
-                    }
-                    i++;
+            for(int weight:weights){
+                sum+=weight;
+                if(sum>mid){
+                    sum=weight;
+                    noOfDays++;
                 }
+            }
             if(noOfDays<=days){
                 high=mid-1;
             }
