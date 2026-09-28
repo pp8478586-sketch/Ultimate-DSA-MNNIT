@@ -1,13 +1,13 @@
 class Solution {
     double MedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int low = 0;
+        int first = 0;
         int m = nums1.size();
         int n = nums2.size();
         int high = m;
         int partition = (m + n + 1) / 2;
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while (first <= high) {
+            int mid = first + (high - first) / 2;
             int al =(mid==0)?INT_MIN:nums1[mid-1];
             int ar =(mid==m)?INT_MAX:nums1[mid];
             int temp = partition - mid;
@@ -20,7 +20,7 @@ class Solution {
                 return max(al, bl);
             } 
             else if (bl>ar){
-               low=mid+1;
+               first=mid+1;
             } 
             else {
                 high= mid-1;
