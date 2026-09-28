@@ -1,16 +1,15 @@
 class Solution {
-    int helper(vector<int>&nums,int k,vector<int>&dp){
-        if(k==0)return nums[0];
-        if(k<0)return 0;
-        if(dp[k]!=-1)return dp[k];
-        int pick=nums[k]+helper(nums,k-2,dp);
-        int notPick=helper(nums,k-1,dp);
-        return dp[k]=max(pick,notPick);
-    }
 public:
     int rob(vector<int>& nums) {
+        // this is the tabulation approach for the problem 
         int n=nums.size();
         vector<int>dp(n,-1);
-        return helper(nums,n-1,dp);
+        dp[0]=nums[0];
+        if(n==1)return dp[0];
+        dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i]=max(nums[i]+dp[i-2],dp[i-1]);
+        }
+        return dp[n-1];
     }
 };
