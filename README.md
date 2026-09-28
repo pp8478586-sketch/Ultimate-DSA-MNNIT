@@ -69,6 +69,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -204,6 +205,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
@@ -435,6 +437,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0118-pascals-triangle/) | Easy |
