@@ -253,6 +253,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
@@ -378,6 +379,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -448,6 +450,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
