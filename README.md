@@ -80,6 +80,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0118-pascals-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
@@ -431,6 +432,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -459,6 +461,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0118-pascals-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0213-house-robber-ii/) | Medium |
