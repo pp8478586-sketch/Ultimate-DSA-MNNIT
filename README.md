@@ -128,6 +128,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -223,6 +224,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +426,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
