@@ -171,6 +171,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -393,6 +394,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
@@ -455,6 +457,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
@@ -556,4 +559,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0062-unique-paths/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
