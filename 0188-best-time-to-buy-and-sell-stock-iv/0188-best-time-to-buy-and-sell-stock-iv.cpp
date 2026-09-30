@@ -7,11 +7,11 @@ public:
             int j=1;
             buy[0]=max(buy[0],-prices[i]);
             sell[0]=max(sell[0],buy[0]+prices[i]);
-            int s=sell[0];
+            
             while(j<k){
-                buy[j]=max(buy[j],s-prices[i]);
+                buy[j]=max(buy[j],sell[j-1]-prices[i]);
                 sell[j]=max(sell[j],buy[j]+prices[i]);
-                s=sell[j];
+                
                 j++;
             }
         }
