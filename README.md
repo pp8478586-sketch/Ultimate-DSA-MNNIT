@@ -88,6 +88,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0152-maximum-product-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0162-find-peak-element/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
@@ -465,6 +466,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
