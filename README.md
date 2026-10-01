@@ -398,6 +398,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
@@ -461,6 +462,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
@@ -490,6 +492,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -566,4 +569,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
