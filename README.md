@@ -155,6 +155,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +406,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +436,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
