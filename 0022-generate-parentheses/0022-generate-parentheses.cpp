@@ -1,5 +1,5 @@
 class Solution {
-    void helper(int open ,int close,string curr,vector<string>&ans,int n){
+    void helper(int open,int close, string curr,vector<string>&ans,int n){
         if(open==n&&close==n){
             ans.push_back(curr);
             return ;
@@ -14,14 +14,13 @@ class Solution {
             helper(open,close+1,curr,ans,n);
             curr.pop_back();
         }
-
     }
 public:
-
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
         string curr;
+        vector<string>ans;
         helper(0,0,curr,ans,n);
         return ans;
+
     }
 };
