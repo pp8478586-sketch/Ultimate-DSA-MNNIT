@@ -73,6 +73,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
@@ -527,6 +528,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -573,4 +575,5 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
