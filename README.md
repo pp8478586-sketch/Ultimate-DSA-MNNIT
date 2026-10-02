@@ -170,6 +170,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1922-count-good-numbers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1922-count-good-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1922-count-good-numbers/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
