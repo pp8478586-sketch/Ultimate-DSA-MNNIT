@@ -97,6 +97,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0213-house-robber-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -585,4 +586,5 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0040-combination-sum-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
