@@ -66,6 +66,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0042-trapping-rain-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0055-jump-game/) | Medium |
@@ -587,7 +588,12 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0216-combination-sum-iii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
