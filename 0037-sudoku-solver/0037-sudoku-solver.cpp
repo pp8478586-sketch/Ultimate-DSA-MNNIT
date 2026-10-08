@@ -12,10 +12,11 @@ class Solution {
             return helper(row,col,ans,main_ans,block,k,l+1);
            
         }
+        int s1=(k/3);
+        int s2=(l/3);
         
         for(int i=1;i<=9;i++){
-            int s1=(k/3);
-            int s2=(l/3);
+            
             if(row[k][i]&&col[l][i]&&block[s1][s2][i]){
                 ans[k][l]=i+'0';
                 row[k][i]=false;
