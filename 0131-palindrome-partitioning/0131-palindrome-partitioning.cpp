@@ -11,7 +11,7 @@ class Solution {
         }
         return true;
     }
-    void helper(vector<string>temp,vector<vector<string>>&ans,int i,int n,string &s){
+    void helper(vector<string>&temp,vector<vector<string>>&ans,int i,int n,string &s){
         if(i==n){
             ans.push_back(temp);
             return ;
