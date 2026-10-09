@@ -414,6 +414,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0022-generate-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -489,6 +490,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0198-house-robber/) | Medium |
@@ -595,6 +597,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0051-n-queens](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0216-combination-sum-iii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
