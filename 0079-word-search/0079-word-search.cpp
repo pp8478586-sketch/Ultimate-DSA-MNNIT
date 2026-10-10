@@ -1,19 +1,19 @@
 class Solution {
-    bool helper(vector<vector<char>>&board,string &word,int i,int j,int idx,int m,int n,vector<vector<int>>&visited){
-        if(idx==word.size()){
+    bool helper(vector<vector<char>>& board,vector<vector<int>>&visited,string word,int i,int j,int curr_ind,int m,int n,int size){
+        if(curr_ind==size){
             return true;
         }
         if(i<0||j<0||i>=m||j>=n){
             return false;
         }
-        if(visited[i][j]==1||board[i][j]!=word[idx]){
+        if(visited[i][j]==1||board[i][j]!=word[curr_ind]){
             return false;
         }
         visited[i][j]=1;
-        if(helper(board,word,i+1,j,idx+1,m,n,visited)||
-           helper(board,word,i-1,j,idx+1,m,n,visited)||
-           helper(board,word,i,j+1,idx+1,m,n,visited)||
-           helper(board,word,i,j-1,idx+1,m,n,visited)){
+        if(helper(board,visited,word,i+1,j,curr_ind+1,m,n,size)||
+        helper(board,visited,word,i,j-1,curr_ind+1,m,n,size)||
+        helper(board,visited,word,i-1,j,curr_ind+1,m,n,size)||
+        helper(board,visited,word,i,j+1,curr_ind+1,m,n,size)){
             return true;
         }
         visited[i][j]=0;
@@ -26,11 +26,12 @@ public:
         vector<vector<int>>visited(m,vector<int>(n,0));
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(helper(board,word,i,j,0,m,n,visited)){
+                if(helper(board,visited,word,i,j,0,m,n,word.size())){
                     return true;
                 }
             }
         }
         return false;
+        
     }
 };
