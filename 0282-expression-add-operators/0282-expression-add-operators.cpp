@@ -1,5 +1,5 @@
 class Solution {
-    void helper(int index, string num ,long long target ,long long  value, long long prev,vector<string>&ans,string a,int n){
+    void helper(int index, string num ,int &target ,long long  value, long long prev,vector<string>&ans,string a,int n){
         if(index==n){
             if(value==target){
                 ans.push_back(a);
