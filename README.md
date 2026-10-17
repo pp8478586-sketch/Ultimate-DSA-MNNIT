@@ -177,6 +177,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0070-climbing-stairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0204-count-primes/) | Medium |
+| [0282-expression-add-operators](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0282-expression-add-operators/) | Hard |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1922-count-good-numbers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1922-count-good-numbers/) | Medium |
@@ -419,6 +420,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0079-word-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0282-expression-add-operators](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0282-expression-add-operators/) | Hard |
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -604,6 +606,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0216-combination-sum-iii/) | Medium |
+| [0282-expression-add-operators](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0282-expression-add-operators/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
