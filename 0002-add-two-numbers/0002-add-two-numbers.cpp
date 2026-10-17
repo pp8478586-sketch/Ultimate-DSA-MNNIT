@@ -17,8 +17,16 @@ public:
         int carry=0;
         ListNode*head=NULL;
         ListNode*prev=NULL;
-        while(first!=NULL&&second!=NULL){
-            int sum=first->val+second->val+carry;
+        while(first!=NULL||second!=NULL||carry!=0){
+            int a=0;
+            int b=0;
+            if(first){
+                a=first->val;
+            }
+            if(second){
+                b=second->val;
+            }
+            int sum=a+b+carry;
             int digit=sum%10;
             carry=sum/10;
             ListNode*newNode=new ListNode(digit);
@@ -30,46 +38,10 @@ public:
                 prev->next=newNode;
                 prev=newNode;
             }
-            first=first->next;
-            second=second->next;
+            if(first)first=first->next;
+            if(second)second=second->next;
         }
-        if(first!=NULL){
-            while(first!=NULL){
-                int sum=first->val+carry;
-                int digit=sum%10;
-                carry=sum/10;
-                ListNode*newNode=new ListNode(digit);
-                if(head==NULL){
-                    head=newNode;
-                    prev=newNode;
-                }
-                else{
-                    prev->next=newNode;
-                    prev=newNode;
-                }
-                first=first->next;
-            }  
-        }
-        if(second!=NULL){
-            while(second!=NULL){
-                int sum=second->val+carry;
-                int digit=sum%10;
-                carry=sum/10;
-                ListNode*newNode=new ListNode(digit);
-                if(head==NULL){
-                    head=newNode;
-                    prev=newNode;
-                }
-                else{
-                    prev->next=newNode;
-                    prev=newNode;
-                }
-                second=second->next;
-            }
-        }
-        if(carry!=0){
-            prev->next=new ListNode(carry);
-        }
+        
         return head;
 
     }
