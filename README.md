@@ -259,6 +259,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
@@ -300,6 +301,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0021-merge-two-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1922-count-good-numbers/) | Medium |
