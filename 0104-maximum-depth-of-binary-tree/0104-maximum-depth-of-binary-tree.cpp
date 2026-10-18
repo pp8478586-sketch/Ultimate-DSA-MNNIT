@@ -10,20 +10,14 @@
  * };
  */
 class Solution {
-    void inorder(TreeNode*root,int depth,int &maxdepth){
-        if(root==NULL)return;
-        if(depth>maxdepth){
-            maxdepth=depth;
-        }
-        inorder(root->left,depth+1,maxdepth);
-        inorder(root->right,depth+1,maxdepth);
-    }
+    
 public:
     int maxDepth(TreeNode* root) {
         if(root==NULL)return 0;
-        int maxdepth=INT_MIN;
-        inorder(root,1,maxdepth);
-        return maxdepth;
+        int leftDepth=maxDepth(root->left);
+        int rightDepth=maxDepth(root->right);
+        return 1+max(leftDepth,rightDepth);
+
 
         
     }
