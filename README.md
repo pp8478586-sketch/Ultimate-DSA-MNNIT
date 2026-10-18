@@ -213,6 +213,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0079-word-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -274,11 +275,13 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -288,6 +291,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0084-largest-rectangle-in-histogram](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
