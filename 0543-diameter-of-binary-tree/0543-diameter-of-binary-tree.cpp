@@ -10,20 +10,18 @@
  * };
  */
 class Solution {
-    int lengthOfBinaryTree(TreeNode*root,int &ans){
+    int lengthOfBinaryTree(TreeNode*root,int &diameter){
         if(root==NULL)return 0;
-        int leftHeight=lengthOfBinaryTree(root->left,ans);
-        int rightHeight=lengthOfBinaryTree(root->right,ans);
-        if(ans<leftHeight+rightHeight){
-            ans=leftHeight+rightHeight;
-        }
+        int leftHeight=lengthOfBinaryTree(root->left,diameter);
+        int rightHeight=lengthOfBinaryTree(root->right,diameter);
+        diameter=max(diameter,leftHeight+rightHeight);
         return 1+max(leftHeight,rightHeight);
         
     }
 public:
     int diameterOfBinaryTree(TreeNode* root){
-        int ans=0;
-        lengthOfBinaryTree(root,ans);
-        return ans;
+        int diameter=0;
+        lengthOfBinaryTree(root,diameter);
+        return diameter;
     }
 };
