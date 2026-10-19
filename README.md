@@ -218,6 +218,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0110-balanced-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -288,6 +289,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0110-balanced-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -299,6 +301,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0110-balanced-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -649,4 +652,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0037-sudoku-solver/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
