@@ -12,13 +12,13 @@ class Solution {
         if(root==NULL)return false;
         bool leftSide=helper(root->left,p,q,ans);
         bool rightSide=helper(root->right,p,q,ans);
-        if(leftSide&&rightSide&&ans==NULL){
+        if(leftSide&&rightSide){
             ans=root;
         }
-        else if(leftSide==true&&(root==p||root==q)&&ans==NULL){
+        else if(leftSide==true&&(root==p||root==q)){
             ans=root;
         }
-        else if(rightSide==true&&(root==p||root==q)&&ans==NULL){
+        else if(rightSide==true&&(root==p||root==q)){
             ans=root;
         }
         if(leftSide||rightSide||root==p||root==q)return true;
