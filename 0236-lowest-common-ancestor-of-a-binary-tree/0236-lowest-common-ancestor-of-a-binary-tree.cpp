@@ -8,27 +8,13 @@
  * };
  */
 class Solution {
-    bool helper(TreeNode*root,TreeNode*p,TreeNode*q,TreeNode*&ans){
-        if(root==NULL)return false;
-        bool leftSide=helper(root->left,p,q,ans);
-        bool rightSide=helper(root->right,p,q,ans);
-        if(leftSide&&rightSide){
-            ans=root;
-        }
-        else if(leftSide==true&&(root==p||root==q)){
-            ans=root;
-        }
-        else if(rightSide==true&&(root==p||root==q)){
-            ans=root;
-        }
-        if(leftSide||rightSide||root==p||root==q)return true;
-        return false;
-    }
+   
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode*ans=NULL;
-        helper(root,p,q,ans);
-        return ans;
-        
+        if(root==NULL||root==p||root==q)return root;
+        TreeNode*right=lowestCommonAncestor(root->right,p,q);
+        TreeNode*left=lowestCommonAncestor(root->left,p,q);
+        if(right&&left)return root;
+        return right?right:left;
     }
 };
