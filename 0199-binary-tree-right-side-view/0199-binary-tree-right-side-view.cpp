@@ -10,22 +10,18 @@
  * };
  */
 class Solution {
-    void helper(TreeNode*node,map<int,int>&mp,int level){
+    void helper(TreeNode*node,vector<int>&ans,int level){
         if(node==NULL)return ;
-        if(mp.find(level)==mp.end()){
-            mp[level]=node->val;
+        if(level==ans.size()){
+            ans.push_back(node->val);
         }
-        helper(node->right,mp,level+1);
-        helper(node->left,mp,level+1);
+        if(node->right)helper(node->right,ans,level+1);
+        if(node->left)helper(node->left,ans,level+1);
     }
 public:
     vector<int> rightSideView(TreeNode* root) {
-        map<int,int>mp;
-        helper(root,mp,0);
         vector<int>ans;
-        for(auto &it:mp){
-            ans.push_back(it.second);
-        }
+        helper(root,ans,0);
         return ans;
 
     }
