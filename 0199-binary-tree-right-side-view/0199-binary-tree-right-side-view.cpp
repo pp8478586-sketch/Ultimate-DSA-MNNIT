@@ -15,8 +15,8 @@ class Solution {
         if(mp.find(level)==mp.end()){
             mp[level]=node->val;
         }
-        if(node->right)helper(node->right,mp,level+1);
-        if(node->left)helper(node->left,mp,level+1);
+        helper(node->right,mp,level+1);
+        helper(node->left,mp,level+1);
     }
 public:
     vector<int> rightSideView(TreeNode* root) {
