@@ -305,6 +305,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -324,6 +325,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -502,6 +504,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0162-find-peak-element/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
@@ -615,6 +618,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0078-subsets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
