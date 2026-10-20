@@ -10,37 +10,30 @@
  * };
  */
 class Solution {
+    void helper(TreeNode*root,int col,int row,vector<tuple<int,int,int>>&nodes){
+        if(root==NULL)return ;
+        nodes.push_back({col,row,root->val});
+        helper(root->left,col-1,row+1,nodes);
+        helper(root->right,col+1,row+1,nodes);
+    }
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
+        vector<tuple<int,int,int>>nodes;
         vector<vector<int>>ans;
-        if(root==NULL)return ans;
-        map<int,vector<int>>mp;
-        queue<pair<TreeNode*,int>>q;
-        q.push({root,0});
-        while(!q.empty()){
-            int n=q.size();
-            map<int,vector<int>>levelmap;
-            for(int i=0;i<n;i++){
-                TreeNode*curr=q.front().first;
-                int level=q.front().second;
-                q.pop();
-                levelmap[level].push_back(curr->val);
-                if(curr->left)q.push({curr->left,level-1});
-                if(curr->right)q.push({curr->right,level+1});
+        helper(root,0,0,nodes);
+        sort(nodes.begin(),nodes.end());
+        int prev=INT_MIN;
+        for(auto x:nodes){
+            int col=get<0>(x);
+            int val=get<2>(x);
+            if(col!=prev){
+                ans.push_back({});
+                prev=col;
             }
-            for(auto &it:levelmap){
-                sort(it.second.begin(),it.second.end());
-                for(int x:it.second){
-                    mp[it.first].push_back(x);
-                }
-                    
-            }
-        }
-        
-        for(auto x: mp){
-            ans.push_back(x.second);
+            ans.back().push_back(val);
         }
         return ans;
+        
         
     }
 };
