@@ -84,6 +84,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0085-maximal-rectangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -148,6 +149,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0037-sudoku-solver](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0141-linked-list-cycle/) | Easy |
@@ -302,6 +304,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0102-binary-tree-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -323,6 +326,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0102-binary-tree-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -382,6 +386,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0004-median-of-two-sorted-arrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
