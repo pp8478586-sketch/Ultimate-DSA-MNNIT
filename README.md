@@ -225,6 +225,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0144-binary-tree-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -314,6 +315,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -340,6 +342,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0145-binary-tree-postorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -722,6 +725,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
