@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    TreeNode*subTree(TreeNode*root,int key){
+    TreeNode*subTree(TreeNode*root){
             if(root->left&&root->right){
                 TreeNode*temp=root->left;
                 while(temp->right){
@@ -33,7 +33,7 @@ public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==NULL)return NULL;
         if(root->val==key){
-            return subTree(root,key);
+            return subTree(root);
         }
         else if(root->val<key){
             root->right=deleteNode(root->right,key);
