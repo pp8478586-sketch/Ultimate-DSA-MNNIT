@@ -10,19 +10,19 @@
  * };
  */
 class Solution {
-    TreeNode*helper(vector<int>&preorder,int start,int end){
-        if(start>end)return NULL;
-        TreeNode*newNode=new TreeNode(preorder[start]);
-        int idx=start+1;
-        while(idx<=end&&preorder[idx]<preorder[start]){
-            idx++;
-        }
-        newNode->left=helper(preorder,start+1,idx-1);
-        newNode->right=helper(preorder,idx,end);
+    TreeNode*helper(vector<int>&preorder,int &i,long long mini, long long maxi){
+        if(i==preorder.size())return NULL;
+        int value=preorder[i];
+        if(value<mini||value>maxi)return NULL;
+        TreeNode*newNode=new TreeNode(value);
+        i++;
+        newNode->left=helper(preorder,i,mini,value);
+        newNode->right=helper(preorder,i,value,maxi);
         return newNode;
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return helper(preorder,0,preorder.size()-1);
+        int i=0;
+        return helper(preorder,i,LLONG_MIN,LLONG_MAX);
     }
 };
