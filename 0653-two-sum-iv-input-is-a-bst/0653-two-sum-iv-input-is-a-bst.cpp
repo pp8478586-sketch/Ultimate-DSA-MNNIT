@@ -10,18 +10,59 @@
  * };
  */
 class Solution {
-    bool helper(TreeNode*root,int k,unordered_map<int,bool>&mp){
-        if(root==NULL)return false;
-        if (mp.find(k - root->val) != mp.end())return true;
-        mp[root->val]=true;
-        bool left=helper(root->left,k,mp);
-        if(left)return true;
-        return helper(root->right,k,mp);
+    stack<TreeNode*>st1;
+    stack<TreeNode*>st2;
+    void helper(TreeNode*root){
+        TreeNode*temp=root;
+        while(temp){
+            st1.push(temp);
+            temp=temp->left;
+        }
+        temp=root;
+        while(temp){
+            st2.push(temp);
+            temp=temp->right;
+        }
     }
+    int next(){
+        TreeNode*curr=st1.top();
+        int ans=curr->val;
+        st1.pop();
+        curr=curr->right;
+        while(curr){
+            st1.push(curr);
+            curr=curr->left;
+        }
+        return ans;
+    }
+    int last(){
+        TreeNode*curr=st2.top();
+        int ans=curr->val;
+        st2.pop();
+        curr=curr->left;
+        while(curr){
+            st2.push(curr);
+            curr=curr->right;
+        }
+        return ans;
+    }
+    
 public:
     bool findTarget(TreeNode* root, int k) {
-        unordered_map<int,bool>mp;
-        return helper(root,k,mp);
+        helper(root);
+        int first=next();
+        int second=last();
+        while(first<second){
+            if(second==k-first)return true;
+            else if(second<k-first){
+                first=next();
+            }
+            else{
+                second=last();
+            }
+        }
+        return false;
+        
         
         
     }
