@@ -3,21 +3,22 @@ class KthLargest {
     int size=0;
 public:
     KthLargest(int k, vector<int>& nums) {
+        size=k;
        for(int x:nums){
             pq.push(x);
+            if(pq.size()>size){
+                pq.pop();
+            }
        } 
-       size=k;
+       
     }
     
     int add(int val) {
         pq.push(val);
-        while(pq.size()>size){
+        if(pq.size()>size){
             pq.pop();
         }
         return pq.top();
-
-        
-        
     }
 };
 
