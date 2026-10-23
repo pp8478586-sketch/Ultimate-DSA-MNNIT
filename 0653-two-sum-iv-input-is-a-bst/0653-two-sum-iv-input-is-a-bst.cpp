@@ -49,6 +49,7 @@ class Solution {
     
 public:
     bool findTarget(TreeNode* root, int k) {
+        if(root==NULL)return false;
         helper(root);
         int first=next();
         int second=last();
