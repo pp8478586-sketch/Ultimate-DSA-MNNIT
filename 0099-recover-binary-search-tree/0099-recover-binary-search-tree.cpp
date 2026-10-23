@@ -10,28 +10,25 @@
  * };
  */
 class Solution {
-    void swap(TreeNode*first,TreeNode*second){
-        int firstVal=first->val;
-        int secondVal=second->val;
-        first->val=secondVal;
-        second->val=firstVal;
-    }
-    bool helper(TreeNode*root,TreeNode*mini,TreeNode* maxi){
-        if(root==NULL)return false;
-        if(maxi&&root->val>maxi->val){
-            swap(root,maxi);
-            return true;
+    TreeNode*prev=NULL;
+    TreeNode*first=NULL;
+    TreeNode*second=NULL;
+    void helper(TreeNode*root){
+        if(root==NULL)return;
+        helper(root->left);
+        if(prev!=NULL&&root->val<prev->val){
+            if(first==NULL)first=prev;
+            second=root;
         }
-        else if(mini&&root->val<mini->val){
-            swap(root,mini);
-             return true;
-        }
-        if(helper(root->left,mini,root))return true;
-        return helper(root->right,root,maxi);
-        
+        prev=root;
+        helper(root->right);
     }
+    
 public:
     void recoverTree(TreeNode* root) {
-        while(helper(root,NULL,NULL));
+        helper(root);
+        int temp=first->val;
+        first->val=second->val;
+        second->val=temp;
     }
 };
