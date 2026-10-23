@@ -12,7 +12,7 @@
 class Solution {
     bool helper(TreeNode*root,int k,unordered_map<int,bool>&mp){
         if(root==NULL)return false;
-        if(mp[k-root->val])return true;
+        if (mp.find(k - root->val) != mp.end())return true;
         mp[root->val]=true;
         bool left=helper(root->left,k,mp);
         if(left)return true;
