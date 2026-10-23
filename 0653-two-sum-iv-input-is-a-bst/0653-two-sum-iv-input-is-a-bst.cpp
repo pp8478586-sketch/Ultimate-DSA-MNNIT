@@ -53,11 +53,13 @@ public:
         int first=next();
         int second=last();
         while(first<second){
-            if(second==k-first)return true;
-            else if(second<k-first){
+            if(second+first==k)return true;
+            else if(second+first<k){
+                if(st1.empty())break;
                 first=next();
             }
             else{
+                if(st2.empty())break;
                 second=last();
             }
         }
