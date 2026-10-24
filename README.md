@@ -337,6 +337,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -370,6 +371,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -433,6 +435,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0023-merge-k-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +489,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
@@ -496,6 +500,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 ## Sliding Window
@@ -764,6 +769,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
