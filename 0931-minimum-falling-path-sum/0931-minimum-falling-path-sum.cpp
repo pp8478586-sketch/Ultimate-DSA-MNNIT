@@ -1,29 +1,35 @@
 class Solution {
+   
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
-        vector<int>dp(n);
+        int m=matrix[0].size();
+        vector<vector<int>>dp(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
-            vector<int>temp(n,0);
-            for(int j=0;j<n;j++){
+            for(int j=0;j<m;j++){
                 if(i==0){
-                    dp[j]=matrix[i][j];
+                    dp[i][j]=matrix[i][j];
+                    continue;
                 }
                 else{
-                    int first=INT_MAX;
-                    if(j-1>=0)first=dp[j-1];
-                    int second=dp[j];
-                    int third=INT_MAX;
-                    if(j+1<n) third=dp[j+1];
-                    int mini=min(first,second);
-                    mini=min(mini,third);
-                    temp[j]=matrix[i][j]+mini;
+                    int up=1e9;
+                    int left=1e9;
+                    int right=1e9;
+                    if(i-1>=0)up=dp[i-1][j];
+                    if(i-1>=0&&j-1>=0)left=dp[i-1][j-1];
+                    if(i-1>=0&&j+1<m)right=dp[i-1][j+1];
+                    dp[i][j]=matrix[i][j]+min({left,up,right});
                 }
+                
+
             }
-            if(i>0)dp=temp;
         }
-        return *min_element(dp.begin(),dp.end());
-
-
+        int ans=INT_MAX;
+        for(int j=0;j<m;j++){
+            ans=min(dp[n-1][j],ans);
+            
+        }
+        return ans;
+       
     }
 };
