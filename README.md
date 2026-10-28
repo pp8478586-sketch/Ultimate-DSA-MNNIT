@@ -120,6 +120,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
+| [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -166,6 +167,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -465,6 +467,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -602,6 +605,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Quicksort
