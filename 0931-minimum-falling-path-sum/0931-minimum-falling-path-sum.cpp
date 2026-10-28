@@ -17,8 +17,8 @@ public:
                     int left=1e9;
                     int right=1e9;
     
-                    if(i-1>=0&&j-1>=0)left=prev[j-1];
-                    if(i-1>=0&&j+1<m)right=prev[j+1];
+                    if(j-1>=0)left=prev[j-1];
+                    if(j+1<m)right=prev[j+1];
                     curr[j]=matrix[i][j]+min({left,up,right});
                 }
             }
