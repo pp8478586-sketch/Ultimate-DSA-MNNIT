@@ -217,6 +217,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0189-rotate-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -443,6 +444,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0023-merge-k-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -467,6 +469,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0148-sort-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
@@ -500,6 +503,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0155-min-stack](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
@@ -514,6 +518,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
