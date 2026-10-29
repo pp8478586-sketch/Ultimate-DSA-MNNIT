@@ -14,28 +14,22 @@ public:
         vector<int>ans;
         unordered_set<int>list=following[userId];
         list.insert(userId);
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>mostRecent;
-        int i=0;
-        while(i<10){
-            for(int x:list){
+        priority_queue<array<int,4>>pq;
+        for(int x:list){
+            if(mp.count(x)&&!mp[x].empty()){
                 int sz=mp[x].size();
-                if(sz-i-1>=0){
-                    int tweetId=mp[x][sz-i-1].first;
-                    int time=mp[x][sz-i-1].second;
-                    mostRecent.push({time,tweetId});
-                }
-                if(mostRecent.size()>10){
-                    mostRecent.pop();
-                }
+                int idx=sz-1;
+                pq.push({mp[x][idx].second,mp[x][idx].first,idx,x});
             }
-            i++;
         }
-        while(!mostRecent.empty()){
-            auto curr=mostRecent.top();
-            mostRecent.pop();
-            ans.push_back(curr.second);
+        while(!pq.empty()&&ans.size()<10){
+            auto [time,tweetId,idx,x]=pq.top();
+            pq.pop();
+            ans.push_back(tweetId);
+            if(idx>0){
+                pq.push({mp[x][idx-1].second,mp[x][idx-1].first,idx-1,x});
+            }
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
     
