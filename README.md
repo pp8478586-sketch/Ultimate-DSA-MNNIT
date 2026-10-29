@@ -161,6 +161,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0142-linked-list-cycle-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0229-majority-element-ii/) | Medium |
+| [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
@@ -309,6 +310,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0234-palindrome-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
@@ -441,6 +443,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0023-merge-k-sorted-lists](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Merge Sort
@@ -498,6 +501,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0173-binary-search-tree-iterator](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0901-online-stock-span/) | Medium |
