@@ -134,6 +134,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -257,6 +258,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +303,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
