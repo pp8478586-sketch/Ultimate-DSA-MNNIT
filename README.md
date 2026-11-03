@@ -118,6 +118,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0496-next-greater-element-i](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
@@ -276,6 +277,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0200-number-of-islands](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -309,6 +311,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0130-surrounded-regions](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -685,6 +688,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0410-split-array-largest-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
