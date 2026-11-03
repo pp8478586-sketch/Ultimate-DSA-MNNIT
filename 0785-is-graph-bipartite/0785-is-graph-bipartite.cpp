@@ -1,18 +1,18 @@
 class Solution {
-    bool dfs(vector<vector<int>>&graph,vector<int>&color,int node,int ref){
-        if(ref==0){
-            ref=1;
+    bool dfs(vector<vector<int>>&graph,vector<int>&color,int node,int nextColor){
+        if(nextColor==0){
+            nextColor=1;
         }
         else{
-            ref=0;
+            nextColor=0;
         }
         for(int i=0;i<graph[node].size();i++){
             if(color[graph[node][i]]!=-1){
-                if(color[graph[node][i]]!=ref)return true;
+                if(color[graph[node][i]]!=nextColor)return true;
             }
             else{
-                color[graph[node][i]]=ref;
-                if(dfs(graph,color,graph[node][i],ref))return true;
+                color[graph[node][i]]=nextColor;
+                if(dfs(graph,color,graph[node][i],nextColor))return true;
             }
         
         }
@@ -24,6 +24,7 @@ public:
         vector<int>color(n,-1);
         for(int i=0;i<n;i++){
             if(color[i]==-1){
+                color[i]=0;
                 if(dfs(graph,color,i,0))return false;
             }
         }
