@@ -162,6 +162,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0073-set-matrix-zeroes](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0141-linked-list-cycle/) | Easy |
@@ -275,6 +276,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0102-binary-tree-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0200-number-of-islands/) | Medium |
@@ -606,6 +608,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0076-minimum-window-substring](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0282-expression-add-operators](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0282-expression-add-operators/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -881,4 +884,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
