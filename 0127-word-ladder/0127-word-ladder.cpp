@@ -16,15 +16,17 @@ public:
                 string newWord=q.front();
                 q.pop();
                 for(int j=0;j<beginWord.size();j++){
+                    char ch=newWord[j];
                     for(int s=0;s<26;s++){
-                        string temp=newWord;
-                        temp[j]='a'+s;
-                        if(temp==endWord)return step;
-                        if(st.count(temp)){
-                            q.push(temp);
-                            st.erase(temp);
+                        newWord[j]='a'+s;
+                        if(newWord==endWord)return step;
+                        if(st.count(newWord)){
+                            q.push(newWord);
+                            st.erase(newWord);
                         }
+                    
                     }
+                    newWord[j]=ch;
                 }
             }
             step++;
