@@ -260,6 +260,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -284,6 +285,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -329,6 +331,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0207-course-schedule](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -853,6 +856,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -865,4 +869,12 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
