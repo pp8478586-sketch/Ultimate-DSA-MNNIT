@@ -4,16 +4,11 @@ public:
         int n=graph.size();
         // reverse the direction of the edges
         vector<vector<int>>adj(n);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<graph[i].size();j++){
-                adj[graph[i][j]].push_back(i);
-            }
-        }
-        // store indegree for all the elements in reversed graph
         vector<int>indegree(n,0);
         for(int i=0;i<n;i++){
-            for(int j=0;j<adj[i].size();j++){
-                indegree[adj[i][j]]++;
+            indegree[i]=graph[i].size();
+            for(int j=0;j<graph[i].size();j++){
+                adj[graph[i][j]].push_back(i);
             }
         }
         queue<int>q;
