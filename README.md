@@ -265,6 +265,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -294,6 +295,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -346,6 +348,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0210-course-schedule-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Linked List
@@ -506,6 +509,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -716,6 +720,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0509-fibonacci-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -907,4 +912,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
