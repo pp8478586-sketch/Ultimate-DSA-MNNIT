@@ -148,6 +148,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1472-design-browser-history](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -270,6 +271,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +301,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0994-rotting-oranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +313,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1091-shortest-path-in-binary-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -501,6 +506,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0355-design-twitter](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -648,6 +654,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Counting
@@ -896,4 +903,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0127-word-ladder/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
