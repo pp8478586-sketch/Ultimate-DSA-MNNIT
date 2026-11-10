@@ -351,6 +351,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -725,6 +726,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0907-sum-of-subarray-minimums](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bracket Sequences
@@ -914,11 +916,21 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
