@@ -18,7 +18,7 @@ public:
             pq.pop();
             long long  dis=curr.first;
             int node=curr.second;
-            if(distance[node]<dis)continue;
+            if(distance[node]>dis)continue;
             for(auto it:adj[node]){
                 int newNode=it[0];
                 int wt=it[1];
