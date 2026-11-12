@@ -124,6 +124,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0860-lemonade-change/) | Easy |
@@ -265,6 +266,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -296,6 +298,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -313,6 +316,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0130-surrounded-regions](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -334,6 +338,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0240-search-a-2d-matrix-ii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0994-rotting-oranges/) | Medium |
@@ -515,6 +520,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
@@ -658,6 +664,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0493-reverse-pairs](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -921,6 +928,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -939,4 +947,8 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
