@@ -25,6 +25,9 @@ public:
                         pq.push({newTime,newRow,newCol});
                         time[newRow][newCol]=newTime;
                     }
+                    if(newRow==n-1&&newCol==n-1){
+                        return time[n-1][n-1];
+                    }
                 }
             }
         }
