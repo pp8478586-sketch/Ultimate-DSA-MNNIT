@@ -122,6 +122,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0704-binary-search/) | Easy |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0735-asteroid-collision/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -181,6 +182,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0560-subarray-sum-equals-k](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -264,6 +266,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -297,6 +300,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -318,6 +322,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0130-surrounded-regions](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0827-making-a-large-island/) | Hard |
@@ -553,6 +558,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0435-non-overlapping-intervals](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -647,6 +653,7 @@ As an Electrical Engineering student, I am bridging the gap between hardware and
 | [0402-remove-k-digits](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0721-accounts-merge](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/0721-accounts-merge/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pp8478586-sketch/Ultimate-DSA-MNNIT/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
