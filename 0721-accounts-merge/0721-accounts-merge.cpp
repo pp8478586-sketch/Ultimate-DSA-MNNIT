@@ -1,68 +1,52 @@
-class DisjointSet{
-public:
-    vector<int>parent;
-    vector<int>size;
-    int findUltimateParent(int v,vector<int>&parent){
-        if(v==parent[v]){
-            return v;
-        }
-        return parent[v]=findUltimateParent(parent[v],parent);
-    }
-    DisjointSet(int n){
-        parent.resize(n);
-        size.resize(n);
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-            size[i]=1;
-        }
-    }
-    void unionBySize(int u,int v){
-        int u_parent=findUltimateParent(u,parent);
-        int v_parent=findUltimateParent(v,parent);
-        if(u_parent==v_parent)return ;
-        if(size[u_parent]<=size[v_parent]){
-            parent[u_parent]=v_parent;
-            size[v_parent]=size[u_parent]+size[v_parent];
-        }
-        else {
-            parent[v_parent]=u_parent;
-            size[u_parent]=size[u_parent]+size[v_parent];
-        }
+class Solution {
+    vector<int> parent, sz;
+
+    int findRoot(int v) {
+        if (v == parent[v]) return v;
+        return parent[v] = findRoot(parent[v]);
     }
 
-};
-class Solution {
+    void unite(int u, int v) {
+        int pu = findRoot(u), pv = findRoot(v);
+        if (pu == pv) return;
+        if (sz[pu] < sz[pv]) swap(pu, pv);
+        parent[pv] = pu;
+        sz[pu] += sz[pv];
+    }
+
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n=accounts.size();
-        DisjointSet ds(n);
-        unordered_map<string,int>mp;
-        for(int i=0;i<n;i++){
-            for(int j=1;j<accounts[i].size();j++){
-                if(mp.find(accounts[i][j])!=mp.end()){
-                    ds.unionBySize(i,mp[accounts[i][j]]);
-                }
-                else {
-                    mp[accounts[i][j]]=i;
-                }
+        int n = accounts.size();
+        parent.resize(n);
+        iota(parent.begin(), parent.end(), 0);
+        sz.assign(n, 1);
+
+        unordered_map<string, int> owner;
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < accounts[i].size(); j++) {
+                auto [it, inserted] = owner.emplace(accounts[i][j], i);
+                if (!inserted) unite(i, it->second);
             }
         }
-        unordered_map<int,set<string>>temp;
-        for(int i=0;i<n;i++){
-            int root=ds.findUltimateParent(i,ds.parent);
-            for(int j=1;j<accounts[i].size();j++){
-                temp[root].insert(accounts[i][j]);
+
+        vector<vector<string>> groups(n);
+        for (int i = 0; i < n; i++) {
+            int root = findRoot(i);
+            for (int j = 1; j < accounts[i].size(); j++) {
+                groups[root].push_back(accounts[i][j]);
             }
         }
-        vector<vector<string>>ans;
-        for(auto &it:temp){
-            int root=it.first;
-            vector<string>curr;
-            curr.push_back(accounts[root][0]);
-            for(const string & email:it.second){
-                curr.push_back(email);
-            }
-            ans.push_back(curr);
+
+        vector<vector<string>> ans;
+        for (int i = 0; i < n; i++) {
+            if (groups[i].empty()) continue;
+            auto& emails = groups[i];
+            sort(emails.begin(), emails.end());
+            emails.erase(unique(emails.begin(), emails.end()), emails.end());
+            vector<string> curr{accounts[i][0]};
+            curr.insert(curr.end(), make_move_iterator(emails.begin()),
+                        make_move_iterator(emails.end()));
+            ans.push_back(move(curr));
         }
         return ans;
     }
